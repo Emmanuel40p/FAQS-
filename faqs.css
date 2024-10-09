@@ -60,7 +60,8 @@ p{
     letter-spacing: normal;
     word-spacing: 5px;
     line-height: 25px;
-    font-family: 'Work Sans' sans-serif;
+    font-family: Georgia, 'Times New Roman', Times, serif  ;
+    line-height: 33px;
     color: hsl(292, 16%, 49%);
     font-weight: 500;
     padding-top: 30px;
@@ -74,7 +75,8 @@ p{
     padding-top: 25px;
     padding-right: 120px;
     cursor: pointer;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 33px;
 }
 #icon-minus{
     padding-left: 20px;
